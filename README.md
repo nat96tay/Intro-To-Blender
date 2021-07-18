@@ -8,3 +8,5 @@ Level 2 in progress
 Level 2 Particles to add sprinkles
 
 ![Level 2 Render - Donut with icing and sprinkles](https://raw.githubusercontent.com/nat96tay/Intro-To-Blender/main/Renders/Level2_Sprinkies.jpg)
+
+Level 2 Added Texture Mask png.
