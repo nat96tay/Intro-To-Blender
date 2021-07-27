@@ -11,3 +11,7 @@ Level 2 particles to add sprinkles
 
 Level 2 added texture mask png.
 Level 2 complete - added new texture mask and displacement
+
+![Level 2 Render - Donut with icing, sprinkles and texture](https://raw.githubusercontent.com/nat96tay/Intro-To-Blender/main/Renders/Level2_Complete.jpg)
+
+![Level 2 Render - Complete donut with coloured lighting](https://raw.githubusercontent.com/nat96tay/Intro-To-Blender/main/Renders/Level2_Complete_ColouredLights.jpg)
