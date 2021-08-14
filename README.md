@@ -15,3 +15,8 @@ Level 2 complete - added new texture mask and displacement
 ![Level 2 Render - Donut with icing, sprinkles and texture](https://raw.githubusercontent.com/nat96tay/Intro-To-Blender/main/Renders/Level2_Complete.jpg)
 
 ![Level 2 Render - Complete donut with coloured lighting](https://raw.githubusercontent.com/nat96tay/Intro-To-Blender/main/Renders/Level2_Complete_ColouredLights.jpg)
+
+Level 3 begun - modelled cup and saucer from reference image
+
+![Level 2 Render - Grey cup and saucer with coloured lighting](https://raw.githubusercontent.com/nat96tay/Intro-To-Blender/main/Cup_Renders/Part2precision%20modeling.png)
+
